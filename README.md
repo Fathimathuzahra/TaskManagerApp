@@ -180,18 +180,3 @@ vercel --prod
 MIT License - see LICENSE file for details.
 
 ---
-
-<div align="center">
-
-### **Ready for Submission!** 🎯
-
-[![Open in GitHub](https://img.shields.io/badge/View%20Code-GitHub-black)](https://github.com/Fathimathuzahra/TaskManagerApp)
-[![Try Locally](https://img.shields.io/badge/Run%20Locally-Localhost-blue)](http://localhost:3000)
-
-</div>
-
----
-
-**Built for Full Stack Development Internship Assessment**  
-**All requirements + bonus features completed**  
-**Ready for review and deployment**
