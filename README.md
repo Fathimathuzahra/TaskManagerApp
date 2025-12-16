@@ -119,7 +119,7 @@ TaskManagerApp/
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](C:\Users\USER\OneDrive\Desktop\Taskmanagerapp\screenshots\login.png)
 *Clean login interface with dark mode toggle*
 
 ### Registration Page
