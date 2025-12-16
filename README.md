@@ -116,6 +116,24 @@ TaskManagerApp/
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+*Clean login interface with dark mode toggle*
+
+### Registration Page
+![Register Page](screenshots/register.png)
+*User registration form with validation*
+
+### Dashboard (Light Mode)
+![Dashboard Light](screenshots/dashboard-light.png)
+*Task management interface with progress tracking*
+
+### Dashboard (Dark Mode)
+![Dashboard Dark](screenshots/dashboard-dark.png)
+*Dark theme implementation for reduced eye strain*
+
 ## 🧪 **Testing the Application**
 
 1. **Register a new user** at `http://localhost:3000/register`
