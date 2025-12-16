@@ -119,7 +119,7 @@ TaskManagerApp/
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](https://github.com/Fathimathuzahra/TaskManagerApp/blob/main/screenshots/login.png)
+![Login Page](screenshots/login.png)
 *Clean login interface with dark mode toggle*
 
 ### Registration Page
@@ -133,6 +133,14 @@ TaskManagerApp/
 ### Dashboard (Dark Mode)
 ![Dashboard Dark](screenshots/dashboard-dark.png)
 *Dark theme implementation for reduced eye strain*
+
+### Login (Dark Mode)
+![Login Dark](screenshots/login-dark.png)
+*Dark theme login page implementation for reduced eye strain*
+
+### Login (Dark Mode)
+![Register Dark](screenshots/register-dark.png)
+*Dark theme Register page implementation for reduced eye strain*
 
 ## 🧪 **Testing the Application**
 
